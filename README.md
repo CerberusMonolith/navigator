@@ -1,4 +1,4 @@
-# Educational institution navigation system
+#  navigator
  
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
  
